@@ -4,37 +4,36 @@
 
 ## Requirements
 
-NodeJs is required, download here: https://nodejs.org/en/download/
+For testing and development, NodeJs is required and can be downloaded here: https://nodejs.org/en/download/
 
-Test installation
+You can test your installation by running the following command:
 
 ```
-node -v # returns 'v10.19.0'
+$ node -v 
+#returns 'v10.19.0'
 ```
 
 --- 
 
-## Installation
+## Installation (MacOS)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Unzip the file into the folder you want the code to live in and run the following commands:
 
-```bash
-pip install foobar
+```
+$ cd YOUR_FOLDER_NAME
+$ npm install
 ```
 
 ---
 
 ## Usage
 
-```python
-import foobar
+While in the project directory run the following command to start the program:
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```
+$ npm start
 ```
 
 ## How I would convert to a fully featured web application
 
-dafdsafasdfsadfsadfasdfs
 
