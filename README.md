@@ -15,10 +15,14 @@ $ node -v
 
 ## Build (MacOS)
 
-Unzip the file into a convenient place and run the following commands:
+Unzip the file into a convenient place and make sure you're in the project directory by running:
 
 ```
 $ cd SanFranciscoFoodTruckCli
+```
+Next while in the project folder run:
+
+```
 $ npm install
 ```
 
