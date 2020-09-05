@@ -1,7 +1,5 @@
 # San Francisco Food Trucks CLI
 
----
-
 ## Install Dependencies
 
 For testing and development, NodeJs is required and can be downloaded here: https://nodejs.org/en/download/
@@ -42,4 +40,4 @@ As a means to achieve the aforementioned features, I would utilize the following
 
 ---
 
-Thank you for your time and consideration!
+## Thank you for your time and consideration!
