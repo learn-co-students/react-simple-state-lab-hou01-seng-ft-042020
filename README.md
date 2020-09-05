@@ -19,12 +19,14 @@ Unzip the file into a convenient place and make sure you're in the project direc
 
 ```
 $ cd SanFranciscoFoodTruckCLI
+```
 
-# or if the file has been renamed
-
-$ cd YOUR_FILENAME 
+Or if the file has been renamed
 
 ```
+$ cd YOUR_FILENAME 
+```
+
 Next while in the project folder run:
 
 ```
