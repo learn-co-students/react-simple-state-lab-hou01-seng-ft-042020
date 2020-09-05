@@ -18,7 +18,12 @@ $ node -v
 Unzip the file into a convenient place and make sure you're in the project directory by running:
 
 ```
-$ cd SanFranciscoFoodTruckCli
+$ cd SanFranciscoFoodTruckCLI
+
+# or if the file has been renamed
+
+$ cd YOUR_FILENAME 
+
 ```
 Next while in the project folder run:
 
